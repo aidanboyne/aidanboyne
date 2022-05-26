@@ -1,0 +1,2 @@
+- Bioengineering and math undergrad student at UCLA
+- RNA processing research
