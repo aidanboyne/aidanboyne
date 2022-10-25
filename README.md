@@ -5,5 +5,5 @@ I'm a bioengineering and math undergrad student at UCLA and associate intern at 
 
 Outside of work and school, my personal projects include creating directed graph for disease exploration using data formatted using the Resource Description Framework (RDF). The goal is to create a tighly connected inner core of data surrouned by a sparse web of potential connections to leverage the power of inferencing engines and discover new possiblities.
 
-For more information see [aidanboyne.github.io](https://aidanboyne.github.io)!
+For more information see [aidanboyne.github.io](https://aidanboyne.github.io)
 
